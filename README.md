@@ -23,7 +23,7 @@
    * create file and name it authorized_keys: ```touch authorized_keys```
    * open this file using nano: ```nano authorized_keys```
    * write the public key of the client you want to add in one line (write all the content of the id_???????.pub file)
-   * hit 'ctrl+x' thin hit 'y' to save thin hit enter
+   * hit 'ctrl+x' then hit 'y' to save then hit enter
 
 # Open connection :
 -------------------
