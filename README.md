@@ -11,7 +11,7 @@
    * create directory and name it .ssh: ```mkdir .ssh```
    * enter .ssh directory: ```cd .ssh```
    * generat your public and private keys: ```ssh-keygen``` >> this will ask you to chose a path to save the keys, i recommend to leave the default and hit enter
-   * now lest .ssh content while standing in it: ```ls```
+   * now list .ssh content while standing in it: ```ls```
    * print the content of the file that ends with '.pub': ```cat id_???????.pub``` >> we will need it to authenticate with the server
 
   # Server side :
